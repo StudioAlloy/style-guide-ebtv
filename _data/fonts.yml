@@ -1,0 +1,13 @@
+- name: Open Sans
+  type: primary
+  weights:
+  - 400
+  - 700
+  source: Google
+
+- name: Roboto Slab
+  type: secondary
+  weights:
+  - 400
+  - 700
+  source: Google

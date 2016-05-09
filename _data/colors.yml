@@ -1,0 +1,23 @@
+- name: primary
+  color: 34B
+  kind: primary
+
+- name: secondary
+  color: FA0
+  kind: primary
+
+- name: dark
+  color: "000"
+  kind: basic
+
+- name: sub
+  color: 444
+  kind: basic
+
+- name: light
+  color: eee
+  kind: basic
+
+- name: alt
+  color: fff
+  kind: basic

@@ -1,0 +1,69 @@
+- name: html
+  font-family: secondary
+  color: primary
+  kind: base
+  style: > #
+    font-size: 18px;
+- name: h1
+  font-family: secondary
+  color: primary
+  kind: header
+  style: > #
+    font-size: 3rem;
+    line-height: 3.4rem;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 30px;
+- name: h2
+  font-family: secondary
+  color: secondary
+  kind: header
+  style: > #
+    font-size: 2.6rem;
+    line-height: 3rem;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 30px;
+- name: h3
+  font-family: secondary
+  color: tertiary
+  kind: header
+  style: > #
+    font-size: 2.2rem;
+    line-height: 2.6rem;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 30px;
+
+- name: h4
+  font-family: primary
+  color: dark
+  kind: header
+  style: > #
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 30px;
+
+- name: h5
+  font-family: primary
+  color: dark
+  kind: header
+  style: > #
+    font-size: 1rem;
+    line-height: 1.6rem;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 30px;
+
+- name: p
+  font-family: primary
+  color: dark
+  kind: basic
+  style: > #
+    font-size: 1rem;
+    line-height: 1.6rem;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 30px;
